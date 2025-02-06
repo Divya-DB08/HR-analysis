@@ -6,6 +6,10 @@ link-https://drive.google.com/file/d/1t9isLlWdvMLXu79fN1FZ6K_GFQf7cOqf/view?usp=
 
 please copy and paste the url, click to download and view the pbix file
 
+<div align="center">
+  <img src="https://drive.google.com/file/d/1-d7IrFhiJTS3TK6irI7vHbaKeMxsvn7d/view?usp=drive_link.png" alt="Your Image Description" width="400">
+</div>
+
 
 **HR Analysis Dashboard**
 
@@ -21,17 +25,7 @@ Features:
 Interactive dashboard: Allows users to filter and explore data using various parameters.
 Data visualization: Employs charts and graphs to present data in a clear and concise manner.
 Customizable: Can be adapted to specific HR analysis needs.
-How to use:
 
-Clone the repository:
-
-Bash
-
-git clone <repository_url>
-Open the dashboard:
-
-Open the HTML file in a web browser.
-Data:
 
 The dashboard requires an input file containing employee data.
 The expected format for the input file is a CSV file with the following columns:
