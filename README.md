@@ -6,9 +6,9 @@ link-https://drive.google.com/file/d/1t9isLlWdvMLXu79fN1FZ6K_GFQf7cOqf/view?usp=
 
 please copy and paste the url, click to download and view the pbix file
 
-<div align="center">
-  <img src="https://drive.google.com/file/d/1-d7IrFhiJTS3TK6irI7vHbaKeMxsvn7d/view?usp=drive_link.png" alt="Your Image Description" width="400">
-</div>
+
+
+Dashboard screenshot link  : https://drive.google.com/file/d/1-d7IrFhiJTS3TK6irI7vHbaKeMxsvn7d/view?usp=drive_link
 
 
 **HR Analysis Dashboard**
